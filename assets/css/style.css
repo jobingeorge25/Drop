@@ -2739,7 +2739,7 @@ hr {
 }
 
 .main-header .main-menu ul li a {
-    color: #000;
+    color: #fff;
     font-weight: 400;
     padding: 39px 2px;
     display: block;
@@ -2772,10 +2772,10 @@ hr {
 }
 
 .main-header .main-menu ul li:hover>a {
-    color: #3768CE;
+    color: #000000;
 }
  .main-header .main-menu ul li a:hover{
-    color: white;
+    color: rgb(152, 175, 207);
     /*background-color: #fff;*/
 } 
 
